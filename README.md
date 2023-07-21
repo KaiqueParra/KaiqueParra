@@ -1,4 +1,3 @@
-### ☕Oi!! Eu sou o Kaique Parra
 
 ##
 <div aling="center">
