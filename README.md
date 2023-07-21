@@ -11,7 +11,7 @@
    <img align="center" alt="Kaique-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Kaique-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="Kaique-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-   <img align="rigth" alt="Kaique-Tardis" height="200px" width="200px" src="https://64.media.tumblr.com/47468fa55183898be9abe812418bb106/tumblr_n7jcp2Ejcl1rey868o1_500.gif"/>
+   <img align="right" alt="Yuri-pic" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/47468fa55183898be9abe812418bb106/tumblr_n7jcp2Ejcl1rey868o1_500.gif"/>
 </div>
 
 ##
