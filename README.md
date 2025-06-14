@@ -11,11 +11,19 @@
 
 ### 💻 Stack atual:
 
+**Front-end:**
 <div align="center" style="display: inline_block"><br>
   <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
+
+**Ferramentas:**
+<div align="center" style="display: inline_block"><br>
+  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
 
 ---
 
@@ -29,3 +37,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
+---
+
+### ☕ Apoie meu trabalho
+
+<a href="https://kaiqueparra.github.io/me-compre-um-cafe/" target="_blank">
+  ![Image](https://github.com/user-attachments/assets/00398a99-6631-471c-9cba-2dbdbc46f0c1)
+  <img src="![Image](https://github.com/user-attachments/assets/00398a99-6631-471c-9cba-2dbdbc46f0c1)" alt="Buy Me A Coffee" height="60" width="217">
+</a>
