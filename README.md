@@ -43,6 +43,4 @@
 ### ☕ Apoie meu trabalho
 
 <a href="https://kaiqueparra.github.io/me-compre-um-cafe/" target="_blank">
-  ![Image](https://github.com/user-attachments/assets/00398a99-6631-471c-9cba-2dbdbc46f0c1)
-  <img src="![Image](https://github.com/user-attachments/assets/00398a99-6631-471c-9cba-2dbdbc46f0c1)" alt="Buy Me A Coffee" height="60" width="217">
 </a>
