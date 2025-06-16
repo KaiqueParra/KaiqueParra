@@ -43,5 +43,5 @@
 ### ☕ Apoie meu trabalho
 
 <a href="https://kaiqueparra.github.io/me-compre-um-cafe/" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  <img src="https://media.discordapp.net/attachments/1384175033001312376/1384179935085723689/cafeee.png?ex=68517d85&is=68502c05&hm=5245a55ee287c491ce585afe1df28e2525cc361fc615b8a09ff706636bdf7ae4&=&format=webp&quality=lossless" alt="Buy Me A Coffee" height="60" width="217">
 </a>
