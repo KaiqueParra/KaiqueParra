@@ -60,7 +60,7 @@
 ### 🚀 Futuro:
 
 - 🔭 Explorando o mundo do **JavaScript** e me aprofundando no **Front-end**
-- 🌱 Em breve: **React**, **Node.js**
+- 📢 Em breve: **React**, **Node.js**
 - 🤝 Projetos e colaborações são sempre bem-vindos!
 
 ---
