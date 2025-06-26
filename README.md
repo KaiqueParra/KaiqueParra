@@ -51,7 +51,7 @@
 
 <div>
   <a href="https://kaiqueparra.github.io/me-compre-um-cafe/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1384175033001312376/1384179935085723689/cafeee.png?ex=68517d85&is=68502c05&hm=5245a55ee287c491ce585afe1df28e2525cc361fc615b8a09ff706636bdf7ae4&=&format=webp&quality=lossless" alt="Me Compre um Café" height="60" width="217">
+    <img src="https://media.discordapp.net/attachments/1384175033001312376/1387778356803801259/cafe.png?ex=685e94cf&is=685d434f&hm=9fd97298fba2791aa4dcff3405af697a4d7dc3c6804d2b7a647d226ff9b1f57b&=&format=webp&quality=lossless" alt="Me Compre um Café" height="60" width="217">
   </a>
 </div>
 
