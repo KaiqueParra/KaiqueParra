@@ -1,32 +1,33 @@
-<h1 align="center">♟ Kaique Parra</h1>
+<h1 align="center">☕ Kaique Parra</h1>
 <p align="center">
-  <i>Curioso, criativo e apaixonado por transformar ideias em código.</i><br>
-  <i>Buscando sempre evoluir como dev e como pessoa.</i>
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br>
+  <b>— Martin Fowler</b><br><br>
+  <i>Java student focused on backend development and clean code.</i>
 </p>
 
 ---
 
-### 🛰 Minhas estatísticas:
+### 🛰 My statistics:
 
 <div align="center">
   <a href="https://github.com/KaiqueParra">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueParra&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas GitHub Kaique"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueParra&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas GitHub Kaique"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueParra&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Kaique GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueParra&layout=compact&theme=dark&hide_border=true" alt="Kaique Most Used Languages"/>
   </a>
 </div>
 
 ---
 
-### 💻 Stack atual:
+### ☕ Current Stack:
 
-**Front-end:**
 <div align="center"><br>
-  <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
-**Ferramentas:**
+---
+
+### 🛠 Tools:
+
 <div align="center"><br>
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -34,7 +35,25 @@
 
 ---
 
-### 📫 Entre em contato:
+### 📚 Currently Learning
+
+- ☕ **Java Fundamentals**
+- 🧠 **Programming Logic and Algorithms**
+- 🔧 **Git and GitHub**
+- 📦 **Object-Oriented Programming (OOP)**
+
+---
+
+### 🚀 Future Goals
+
+- ⚙️ **Spring Boot**
+- 🗄️ **SQL & Databases**
+- 🧩 **Backend Architecture**
+- 🧪 **Testing and Clean Code**
+
+---
+
+### 📫 Contact me:
 
 <div>
   <a href="mailto:kaique.p.parra@gmail.com" target="_blank">
@@ -47,21 +66,13 @@
 
 ---
 
-### ☕ Apoie meu trabalho
+### ☕ Support my work
 
 <div>
   <a href="https://kaiqueparra.github.io/me-compre-um-cafe/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1384175033001312376/1387778356803801259/cafe.png?ex=685e94cf&is=685d434f&hm=9fd97298fba2791aa4dcff3405af697a4d7dc3c6804d2b7a647d226ff9b1f57b&=&format=webp&quality=lossless" alt="Me Compre um Café" height="60" width="217">
+    <img src="https://media.discordapp.net/attachments/1384175033001312376/1387778356803801259/cafe.png" alt="Buy Me a Coffee" height="60" width="217">
   </a>
 </div>
-
----
-
-### 🚀 Futuro:
-
-- 🔭 Explorando o mundo do **JavaScript** e me aprofundando no **Front-end**
-- 📢 Em breve: **React**, **Node.js**
-- 🤝 Projetos e colaborações são sempre bem-vindos!
 
 ---
 
