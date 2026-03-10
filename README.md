@@ -1,36 +1,40 @@
 <h1 align="center">☕ Kaique Parra</h1>
+
 <p align="center">
   <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br>
-  <b>— Martin Fowler</b><br><br>
-  <i>Java student focused on backend development and clean code.</i>
+  <b>— Martin Fowler</b>
+</p>
+
+<p align="center">
+  Java student focused on backend development and continuous improvement.
 </p>
 
 ---
 
-### 🛰 My statistics:
+### 🛰 GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/KaiqueParra">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueParra&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Kaique GitHub Stats"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueParra&layout=compact&theme=dark&hide_border=true" alt="Kaique Most Used Languages"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueParra&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueParra&layout=compact&theme=dark&hide_border=true"/>
   </a>
 </div>
 
 ---
 
-### ☕ Current Stack:
+### ☕ Current Stack
 
-<div align="center"><br>
-  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<div align="center">
+  <img alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
 ---
 
-### 🛠 Tools:
+### 🛠 Tools
 
-<div align="center"><br>
-  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<div align="center">
+  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
 ---
@@ -39,38 +43,28 @@
 
 - ☕ **Java Fundamentals**
 - 🧠 **Programming Logic and Algorithms**
-- 🔧 **Git and GitHub**
 - 📦 **Object-Oriented Programming (OOP)**
+- 🔧 **Git and GitHub workflow**
 
 ---
 
-### 🚀 Future Goals
+### 🚀 Next Steps
 
 - ⚙️ **Spring Boot**
-- 🗄️ **SQL & Databases**
+- 🗄️ **SQL and Databases**
 - 🧩 **Backend Architecture**
 - 🧪 **Testing and Clean Code**
 
 ---
 
-### 📫 Contact me:
+### 📫 Contact
 
 <div>
   <a href="mailto:kaique.p.parra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kaiqueparra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-### ☕ Support my work
-
-<div>
-  <a href="https://kaiqueparra.github.io/me-compre-um-cafe/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1384175033001312376/1387778356803801259/cafe.png" alt="Buy Me a Coffee" height="60" width="217">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
