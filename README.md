@@ -5,50 +5,50 @@
   <b>— Martin Fowler</b>
 </p>
 
+---
+
+## 🚀 About Me
+
+- ☕ Studying **Java Backend Development**
+- 🧠 Learning **Programming Logic and Algorithms**
+- 📦 Exploring **Object-Oriented Programming (OOP)**
+- 🔧 Improving **Git and GitHub workflow**
+- 📚 Focused on continuous improvement
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  Java student focused on backend development and continuous improvement.
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueParra&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueParra&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-### 🛰 GitHub Statistics
+## ⚡ Tech Stack
 
-<div align="center">
-  <a href="https://github.com/KaiqueParra">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueParra&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueParra&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-### ☕ Current Stack
-
-<div align="center">
-  <img alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</div>
+</p>
 
 ---
 
-### 🛠 Tools
-
-<div align="center">
-  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</div>
-
----
-
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 - ☕ **Java Fundamentals**
-- 🧠 **Programming Logic and Algorithms**
-- 📦 **Object-Oriented Programming (OOP)**
-- 🔧 **Git and GitHub workflow**
+- 🧠 **Programming Logic**
+- 📦 **Object-Oriented Programming**
+- 🔧 **Git and GitHub**
 
 ---
 
-### 🚀 Next Steps
+## 🚀 Next Steps
 
 - ⚙️ **Spring Boot**
 - 🗄️ **SQL and Databases**
@@ -57,16 +57,30 @@
 
 ---
 
-### 📫 Contact
+## 📂 Future Projects
 
-<div>
-  <a href="mailto:kaique.p.parra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/kaiqueparra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+Projects I plan to build while learning:
+
+- ☕ **Java Exercises Repository**
+- 📦 **OOP Practice Projects**
+- 🧠 **Algorithms and Logic Challenges**
+- 🌐 **First Backend API with Spring Boot**
+
+---
+
+## 📫 Contact
+
+<p>
+
+<a href="mailto:kaique.p.parra@gmail.com" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kaiqueparra/" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
