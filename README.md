@@ -1,7 +1,7 @@
 <h1 align="center">Kaique Parra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=16&center=true&vCenter=true&width=420&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+APIs;Clean+Code+%26+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=444444&size=16&center=true&vCenter=true&width=420&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+APIs;Clean+Code+%26+Architecture" />
 </p>
 
 --- 
