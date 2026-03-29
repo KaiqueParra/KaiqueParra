@@ -8,8 +8,8 @@
 
 ## ▪ About
 
-backend developer focused on building
-scalable and maintainable systems.
+Backend developer focused on building scalable systems,  
+clean architecture and long-term maintainability.
 
 ---
 <br>
